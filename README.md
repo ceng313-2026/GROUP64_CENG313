@@ -48,12 +48,19 @@ Evaluated on out-of-sample Week 2 validation plays (trained on Week 1):
 
 ---
 
-## 6. Repository Structure & How to Run
+## 6. Repository Structure 
 ```text
 ├── README.md
 ├── assignment1_eda_baseline.ipynb
-├── assignment2_solution.ipynb  (To be added in Assignment 2)
+├── requirements.txt
+├── .gitignore
 └── src/
-    ├── data.py      # Data loading & feature extraction functions
-    ├── models.py    # Baseline model classes & RMSE evaluation
-    └── utils.py     # Field trajectory & kinematic EDA plots
+    ├── __init__.py
+    ├── data.py      
+    ├── models.py    
+    └── utils.py     
+└── data/
+    └── README.md
+└── submissions/
+    ├── README.md
+    └── submission_baseline.csv
