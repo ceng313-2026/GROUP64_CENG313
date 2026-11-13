@@ -9,7 +9,7 @@
 
 ## 2. Chosen Kaggle Competition
 * **Competition:** [NFL Big Data Bowl 2026 - Prediction](https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-prediction/)
-* **Goal:** Predict the future (x, y) field coordinates of targeted offensive and defensive NFL players while the football is in the air during pass plays.
+* **Goal:**  Predict the future (x, y) field coordinates of targeted offensive and defensive NFL players while the football is in the air during pass plays.
 * **Evaluation Metric:** Root Mean Squared Error (RMSE) of Euclidean distance between predicted and actual (x, y) coordinates.
 
 ---
