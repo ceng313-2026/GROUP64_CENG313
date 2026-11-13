@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Kaggle API credentials
+kaggle.json
+
+# Large dataset files (keep folder structure via README)
+data/*.csv
+data/*.zip
+data/*.parquet
+data/train/
+
+# OS & IDE files
+.DS_Store
+.vscode/
+.idea/
